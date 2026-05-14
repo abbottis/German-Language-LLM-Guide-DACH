@@ -95,6 +95,24 @@ Die Module sind zum Aneinanderreihen gedacht. Die Reihenfolge spielt keine Rolle
 
 ---
 
+## Skills (Claude & ChatGPT)
+
+For users who prefer a single drop-in file per locale, the [`skills/`](skills/) folder contains three pre-bundled skills (DE, AT, CH). Each `SKILL.md` is self-contained and works as a Claude Skill (with frontmatter), as a ChatGPT Custom GPT instruction, or as a system prompt for any other LLM.
+
+| Skill | Audience |
+|-------|----------|
+| [`skills/german-style-de`](skills/german-style-de/SKILL.md) | Germany (de-DE) |
+| [`skills/german-style-at`](skills/german-style-at/SKILL.md) | Austria (de-AT) |
+| [`skills/german-style-ch`](skills/german-style-ch/SKILL.md) | Switzerland (de-CH) |
+
+See [`skills/README.md`](skills/README.md) for installation instructions in Claude.ai, Claude Code, ChatGPT, Gemini, Mistral and local models.
+
+---
+
+Wer lieber eine einzige Drop-in-Datei pro Locale nutzt, findet im Ordner [`skills/`](skills/) drei vorgefertigte Skills (DE, AT, CH). Jede `SKILL.md` ist self-contained und funktioniert sowohl als Claude Skill (mit Frontmatter) als auch als ChatGPT-Custom-GPT-Instruction oder als System-Prompt für jedes andere LLM. Installationsanleitungen für Claude.ai, Claude Code, ChatGPT, Gemini, Mistral und lokale Modelle siehe [`skills/README.md`](skills/README.md).
+
+---
+
 ## Contributing / Beitragen
 
 Found a phrase that every LLM overuses in German? Open an issue or PR. The `banned-patterns.md` file is the easiest entry point.
@@ -110,6 +128,12 @@ Für die Locale-Module: Wenn du Muttersprachler*in des österreichischen oder Sc
 ---
 
 ## Changelog
+
+### v1.2.0 – 2026-05-14
+
+- *Neu:* Ordner [`skills/`](skills/) mit drei vorgefertigten, self-contained Skill-Paketen für Claude (Frontmatter-Format) und ChatGPT/Gemini/Mistral (Copy-Paste-System-Prompt): `german-style-de`, `german-style-at`, `german-style-ch`.
+- *Neu:* [`skills/README.md`](skills/README.md) als Kurz-Doku (DE/EN) mit Installationsanleitungen für Claude.ai, Claude Code, ChatGPT (Custom GPT & Custom Instructions), Gemini, Mistral und lokale Modelle.
+- *README:* Abschnitt „Skills (Claude & ChatGPT)" ergänzt.
 
 ### v1.1.0 – 2026-05-14
 
