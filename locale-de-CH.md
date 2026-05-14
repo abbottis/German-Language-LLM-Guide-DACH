@@ -15,6 +15,12 @@ Dieses Modul ergänzt die Kernregeln für Schweizer Hochdeutsch. Aktiviere es zu
    - ACHTUNG: Die Spitzen zeigen NACH AUSSEN (anders als im Französischen, wo sie nach innen zeigen).
    - Dieses Modul überschreibt die Regel in typography.md.
 
+3. **Umlaute am Wortanfang in Eigennamen** – Bei Schweizer Gemeinde-, Orts-,
+   Stations- und Strassennamen wird Ae, Oe, Ue statt Ä, Ö, Ü geschrieben:
+   - Aetzikofen, Oerlikon, Uebeschi
+   - Gilt nach Bundesempfehlung auch für Strassennamen.
+   - Achtung: Diese Regel betrifft nur Eigennamen, nicht den allgemeinen Wortschatz.
+
 ## Wortschatz
 
 Verwende die schweizerische Variante, wenn sie die geläufigere ist:
@@ -23,7 +29,7 @@ Verwende die schweizerische Variante, wenn sie die geläufigere ist:
 |---------------|---------------|
 | parken | parkieren |
 | grillen | grillieren |
-| Handy | Natel (oder neutraler: Smartphone) |
+| Handy | Handy / Natel (Natel veraltet, im aktiven Wortschatz im Rückgang) |
 | Fahrrad | Velo |
 | Bürgersteig | Trottoir |
 | Führerschein | Fahrausweis |
@@ -32,9 +38,30 @@ Verwende die schweizerische Variante, wenn sie die geläufigere ist:
 | Abitur | Matura / Maturität |
 | Treppenhaus | Treppenhaus (gleich) |
 | Sahne | Rahm |
-| Brötchen | Weggli / Brötli |
+| Brötchen | Brötchen (in der CH-Schriftsprache üblich), regional Weggli |
 | Pfannkuchen | Omelette |
-| Bitte / Danke | Merci (informell weit verbreitet) |
+| Danke | Merci (informell weit verbreitet) |
+| Pfand | Depot |
+| Veranstaltung | Anlass |
+| Friseur | Coiffeur |
+| Spülbecken / Waschbecken | Lavabo |
+| Geschirrspüler | Abwaschmaschine |
+| Wäschetrockner | Tumbler |
+| Spannbetttuch | Fixleintuch |
+| Eimer | Kübel |
+| Plätzchen / Keks | Guetzli (auch Guetsli) |
+| Croissant | Gipfeli |
+| Speiseeis | Glace |
+| Möhre / Karotte | Rüebli |
+| Rote Bete | Randen |
+| Hähnchen / Hühnerfleisch | Poulet |
+| Zucchini | Zucchetti |
+| Gebrauchtwagen | Occasion |
+| Werkstattinhaber | Garagist |
+| Autowerkstatt | Garage |
+| Bahnsteig | Perron |
+| Elfmeter | Penalty |
+| Torwart | Goalie |
 
 ## Grammatik
 
@@ -44,6 +71,19 @@ Verwende die schweizerische Variante, wenn sie die geläufigere ist:
    - „grillieren" statt „grillen"
    - „parkieren" statt „parken"
    - „telefonieren" ist in beiden Varianten gleich.
+
+5. **Fugen-e bei Komposita** – Schweizer Hochdeutsch setzt häufiger ein Fugen-e ein:
+   - „Produkteauswahl" (nicht „Produktauswahl")
+   - „Exportezahlen", „Zinseszins"
+   - Auch im Plural-Fugen-Bereich auffällig.
+
+6. **Verb-Erststellung im uneingeleiteten Nebensatz** – Standardsprachlich akzeptiert:
+   - „Schön, gehöre ich jetzt auch zu diesem Team."
+   - Struktur stammt aus der Mundart, gilt aber im Schweizer Standarddeutsch als korrekt.
+
+7. **„bereits" am Satzanfang vor dem Verb** – Im Schweizer Standarddeutsch möglich:
+   - „Bereits ziehen dunkle Wolken auf."
+   - Im Bundesdeutschen wäre ein Bezugswort nötig („Bereits jetzt ziehen…").
 
 ## Zahlen & Währung
 
