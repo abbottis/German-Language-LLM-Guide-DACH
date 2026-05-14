@@ -109,6 +109,30 @@ Für die Locale-Module: Wenn du Muttersprachler*in des österreichischen oder Sc
 
 ---
 
+## Changelog
+
+### v1.1.0 – 2026-05-14
+
+**`locale-de-CH.md`**
+
+- *Wortschatz korrigiert:* „Handy → Natel" entschärft (Natel im aktiven Wortschatz im Rückgang), „Bitte / Danke → Merci" auf „Danke → Merci" reduziert (sachlich falsche Kombination), „Brötchen → Weggli / Brötli" auf „Brötchen (CH-Schriftsprache), regional Weggli" geändert.
+- *Wortschatz erweitert:* Alltag (Depot, Anlass, Coiffeur, Lavabo, Abwaschmaschine, Tumbler, Fixleintuch, Kübel, Guetzli, Gipfeli, Glace, Rüebli, Randen, Poulet, Zucchetti), Verkehr (Occasion, Garagist, Garage, Perron), Sport (Penalty, Goalie).
+- *Grammatik:* Fugen-e bei Komposita, Verb-Erststellung im uneingeleiteten Nebensatz, „bereits" am Satzanfang.
+- *Orthografie:* Umlaute am Wortanfang in Eigennamen (Ae/Oe/Ue).
+
+**`locale-de-AT.md`**
+
+- *Wortschatz erweitert:* Essen (Faschiertes, Eierschwammerl, Fisolen, Karfiol, Kohlsprossen, Ribisel, Powidl, Weichsel, Vogerlsalat, Kren, Schlagobers, Beiried, Lungenbraten), Alltag (Mistkübel, Hausübungen, Schularbeit, Bankomat, Sessel, Gewand, Zündholz, Leiberl, Rauchfang, Rauchfangkehrer, Ordination, Primar), Verkehr (Bahnhofbuffet).
+- *Grammatik:* „sich ausgehen", „gehören" + Partizip II, Genus-Abweichungen (das Cola, das E-Mail, das Joghurt).
+- *Orthografie (neuer Abschnitt):* ß bleibt erhalten (Abgrenzung zur Schweiz), Datumsformat.
+- *Anrede & Ton:* „Grüß Gott" als säkularer Standardgruß, „Mahlzeit" als kollegialer Tagesgruß.
+
+### v1.0.0 – Initial release
+
+Erstveröffentlichung mit `core.md`, `typography.md`, `banned-patterns.md`, `locale-de-AT.md`, `locale-de-CH.md`.
+
+---
+
 ## License / Lizenz
 
 [MIT](LICENSE)
